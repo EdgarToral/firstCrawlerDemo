@@ -1,0 +1,15 @@
+C:\Users\Edgar Toral\Desktop\CrawlerDemo\CrawlerDemo\bin\Debug\CrawlerDemo.exe.config
+C:\Users\Edgar Toral\Desktop\CrawlerDemo\CrawlerDemo\bin\Debug\CrawlerDemo.exe
+C:\Users\Edgar Toral\Desktop\CrawlerDemo\CrawlerDemo\bin\Debug\CrawlerDemo.pdb
+C:\Users\Edgar Toral\Desktop\CrawlerDemo\CrawlerDemo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Edgar Toral\Desktop\CrawlerDemo\CrawlerDemo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Edgar Toral\Desktop\CrawlerDemo\CrawlerDemo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Edgar Toral\Desktop\CrawlerDemo\CrawlerDemo\obj\Debug\CrawlerDemo.csprojAssemblyReference.cache
+C:\Users\Edgar Toral\Desktop\CrawlerDemo\CrawlerDemo\obj\Debug\CrawlerDemo.csproj.CopyComplete
+C:\Users\Edgar Toral\Desktop\CrawlerDemo\CrawlerDemo\obj\Debug\CrawlerDemo.exe
+C:\Users\Edgar Toral\Desktop\CrawlerDemo\CrawlerDemo\obj\Debug\CrawlerDemo.pdb
+C:\Users\Edgar Toral\Desktop\CrawlerDemo\CrawlerDemo\bin\Debug\MySql.Data.dll
+C:\Users\Edgar Toral\Desktop\CrawlerDemo\CrawlerDemo\bin\Debug\Google.Protobuf.dll
+C:\Users\Edgar Toral\Desktop\CrawlerDemo\CrawlerDemo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Edgar Toral\Desktop\CrawlerDemo\CrawlerDemo\bin\Debug\Renci.SshNet.dll
+C:\Users\Edgar Toral\Desktop\CrawlerDemo\CrawlerDemo\bin\Debug\MySql.Data.xml
